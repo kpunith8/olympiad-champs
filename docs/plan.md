@@ -13,7 +13,7 @@ Status: Next.js foundation bootstrapped; product features remain proposed. Deliv
 7. **Recovery:** Add local drafts and cross-device sync, with conflict handling and safe retries.
 8. **Content and launch:** Review owner-supplied content, fill coverage gaps, test accessibility and provider integrations, complete privacy review and rehearse backup/restore. Deploy only when authorized.
 
-At each stage verify the main flow, relevant error/empty states, ownership and applicable mobile/accessibility behavior. Use labeled fixtures until reviewed content exists; do not claim full coverage.
+At each stage verify the main flow, relevant error/empty states, ownership and applicable mobile/accessibility behavior. Use labeled fixtures until reviewed content exists; do not claim full coverage. The owner will provide 35 Class 2 questions after the basic UI is ready; their subject and mode coverage remain open.
 
 ## Decisions before implementation or launch
 

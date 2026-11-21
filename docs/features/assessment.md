@@ -4,8 +4,8 @@ Status: proposed. Use with the relevant implementation and tests; unresolved rul
 
 ## Content
 
-- Owner-provided, reviewed questions will cover Classes 1–10 and Maths, Science and English. The meaning of 35 questions and class/subject coverage are undecided. Mark fixtures as examples and show unavailable content honestly.
-- Assign stable IDs and immutable published versions. Record class, subject, topic, difficulty, type, prompt, options, correct answer, ordered solution steps, assets/alt text, source, rights and review status. Support shared English passages. Validate IDs, options, answers, assets and explanations; require human accuracy and rights review.
+- The owner will provide 35 Class 2 questions after the basic UI is ready. Their subject and mode coverage, and the broader 35-question scope, remain undecided. Mark fixtures as examples and show unavailable content honestly.
+- Assign stable IDs and immutable published versions. Record class, subject, topic, difficulty, type, prompt, options, correct answer, ordered solution steps, assets/alt text, source, rights and review status. Support shared English passages. Validate IDs, options, answers, assets and explanations. Human review must confirm each pattern has an unambiguous intended rule, the answer key is correct and every solution step follows logically; reject or correct inaccurate or ambiguous questions before publication, including generated content. Incorrect distractor options are allowed, but must not be marked correct.
 - Initial single-choice support is a proposal, not an approved constraint. Define grading explicitly before adding numeric, multiple-choice or diagram responses. Store private answer keys server-side.
 
 ## Practice
